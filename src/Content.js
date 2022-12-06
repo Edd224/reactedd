@@ -2,11 +2,11 @@
 import Hero_person from "./assets/images/Hero/person.png";
 
 import figma from "./assets/images/Skills/figma.png";
-import sketch from "./assets/images/Skills/sketch.png";
+import sass from "./assets/images/Skills/sass.png";
 import ps from "./assets/images/Skills/ps.png";
 import reactjs from "./assets/images/Skills/react.png";
-import nodejs from "./assets/images/Skills/node.png";
-import python from "./assets/images/Skills/python.png";
+import git from "./assets/images/Skills/git.png";
+import tailwind from "./assets/images/Skills/tailwind.png";
 
 import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
@@ -23,7 +23,6 @@ import avatar3 from "./assets/images/Testimonials/avatar3.png";
 import avatar4 from "./assets/images/Testimonials/avatar4.png";
 
 import Hireme_person from "./assets/images/Hireme/person.png";
-import Hireme_person2 from "./assets/images/Hireme/person2.png";
 
 // import icons from react-icons
 import { GrMail } from "react-icons/gr";
@@ -86,7 +85,7 @@ export const content = {
       {
         name: "Git",
         para: "Lorem ipsum text  dummy",
-        logo: nodejs,
+        logo: git,
       },
       {
         name: "Adobe Photoshop",
@@ -101,12 +100,12 @@ export const content = {
       {
         name: "Sass",
         para: "Lorem ipsum text  dummy",
-        logo: sketch,
+        logo: sass,
       },
       {
         name: "Tailwind",
         para: "Lorem ipsum text  dummy",
-        logo: python,
+        logo: tailwind,
       },
     ],
     icon: MdArrowForward,

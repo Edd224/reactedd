@@ -35,7 +35,7 @@ const Skills = () => {
   }
 
   return (
-    <section className="min-h-fit bg-bg_light_primary" id="skills">
+    <section className="min-h-fit bg-[#fffefe]" id="skills">
       {/* modal */}
       <Modal
         isOpen={modalIsOpen}
@@ -68,7 +68,7 @@ const Skills = () => {
       </Modal>
 
       {/* content */}
-      <div className="md:container px-5  py-14">
+      <div className="md:container px-5  py-14 ">
         <h2 className="title" data-aos="fade-down">
           {skills.title}
         </h2>
@@ -76,13 +76,13 @@ const Skills = () => {
           {skills.subtitle}
         </h4>
         <br />
-        <div className="flex flex-wrap gap-4 justify-center ">
+        <div className="flex flex-wrap gap-4 justify-center">
           {skills.skills_content.map((skill, i) => (
             <div
               key={i}
               data-aos="fade-up"
               data-aos-delay={i * 400}
-              className="bg-white shadow-xl sm:cursor-pointer 
+              className="Skill sm:cursor-pointer 
                relative group w-full flex items-center
                 gap-5 p-5 max-w-sm rounded-md border border-slate-200 first-letter
                 
