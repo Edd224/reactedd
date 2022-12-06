@@ -59,24 +59,24 @@ export const content = {
   ],
   hero: {
     title: "Web Developer",
-    firstName: "JOHN",
-    LastName: "ALEX",
+    firstName: "EDUARD",
+    LastName: "HERAK",
     btnText: "Hire Me",
     image: Hero_person,
     hero_content: [
       {
-        count: "8+",
+        count: "2+",
         text: "Years of Experinse in Web development",
       },
       {
-        count: "20+",
+        count: "10+",
         text: "Projects Worked in my career",
       },
     ],
   },
   skills: {
     title: "Skills",
-    subtitle: "MY TOP SKILLS",
+    subtitle: "My top skills",
     skills_content: [
       {
         name: "Figma",
@@ -113,7 +113,7 @@ export const content = {
   },
   services: {
     title: "Services",
-    subtitle: "WHAT I OFFER",
+    subtitle: "What i offer",
     service_content: [
       {
         title: "Web Development",
@@ -134,7 +134,7 @@ export const content = {
   },
   Projects: {
     title: "Projects",
-    subtitle: "MY CREATION",
+    subtitle: "My creations",
     image: person_project,
     project_content: [
       {
@@ -153,7 +153,7 @@ export const content = {
   },
   Testimonials: {
     title: "Testimonials",
-    subtitle: "MY CLIENT REVIEWS",
+    subtitle: "My client reviews",
     testimonials_content: [
       {
         review:
@@ -183,15 +183,15 @@ export const content = {
   },
   Hireme: {
     title: "Hire Me",
-    subtitle: "FOR YOUR PROJECTS",
+    subtitle: "For your projects",
     image1: Hireme_person,
-    image2: Hireme_person2,
+    image2: Hireme_person,
     para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
     btnText: "Hire Me",
   },
   Contact: {
     title: "Contect Me",
-    subtitle: "GET IN TOUCH",
+    subtitle: "Get in touch",
     social_media: [
       {
         text: "codeaprogram@gmail.com",
