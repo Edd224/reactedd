@@ -84,7 +84,7 @@ export const content = {
         logo: figma,
       },
       {
-        name: "Node js",
+        name: "Git",
         para: "Lorem ipsum text  dummy",
         logo: nodejs,
       },
@@ -99,12 +99,12 @@ export const content = {
         logo: reactjs,
       },
       {
-        name: "Sketch",
+        name: "Sass",
         para: "Lorem ipsum text  dummy",
         logo: sketch,
       },
       {
-        name: "Python",
+        name: "Tailwind",
         para: "Lorem ipsum text  dummy",
         logo: python,
       },
